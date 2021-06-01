@@ -9,11 +9,15 @@ Edit permissions
 Add entry                 
 Entity : Public                       
 Name  : allUsers                  
-Access : Reader                        
+Access : Reader         
+
+If you get error 
+Go to Permssions Tab 
+Change access to Fine-Grained
  
 Copy URL under Public Access                                 
 
-Navigation Menu -> Compute Engine ->VM Instances->Click on  lab monitor instance                  
+Navigation Menu -> Compute Engine ->VM Instances->Click on lab monitor instance                  
 Metadata                
 Key=startup-script-url                       
 Value=[Copied URL of Public access]                       
