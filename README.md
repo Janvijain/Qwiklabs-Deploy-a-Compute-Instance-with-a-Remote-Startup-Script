@@ -32,7 +32,8 @@ https://www.linkedin.com/in/janvi-shree-shrimal-9433401aa/
 Twitter                               
 https://twitter.com/janvissm                            
 
-Qwiklabs Profile : https://run.qwiklabs.com/public_profiles/5c709a0a-adf5-4f7d-9e9d-9f71d6c49c6e                       
+Qwiklabs Profile                       
+https://run.qwiklabs.com/public_profiles/5c709a0a-adf5-4f7d-9e9d-9f71d6c49c6e                             
 
 Medium                               
 https://janvissm.medium.com/                          
