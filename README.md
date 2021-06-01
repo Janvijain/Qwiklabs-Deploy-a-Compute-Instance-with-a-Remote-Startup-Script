@@ -1,6 +1,7 @@
 # Qwiklabs Deploy a Compute Instance with a Remote Startup Script
-Step by Step guide to solve this challenge. Can refer my YouTube video for the same : 
-Nvigation Menu -> Storage -> Create Bucket               
+Step by Step guide to solve this challenge. Can refer my YouTube video for the same :                
+
+Navigation Menu -> Storage -> Create Bucket               
 Name : [GCP Project Id]                     
 Create                                                                              
 Upload files : Select file you downloaded in starting = resources-install-web.sh                       
