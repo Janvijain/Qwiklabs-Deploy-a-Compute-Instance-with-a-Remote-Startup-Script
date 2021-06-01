@@ -11,9 +11,9 @@ Entity : Public
 Name  : allUsers                  
 Access : Reader         
 
-If you get error 
-Go to Permssions Tab 
-Change access to Fine-Grained
+If you get error in adding entity                             
+Go to Permssions Tab                  
+Change access to Fine-Grained                      
  
 Copy URL under Public Access                                 
 
