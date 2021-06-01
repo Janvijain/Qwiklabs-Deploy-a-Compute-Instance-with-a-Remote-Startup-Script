@@ -15,9 +15,9 @@ Copy URL under Public Access
 
 Navigation Menu -> Compute Engine ->VM Instances->Click on  lab monitor instance                  
 Metadata                
-Key=startup-script-url
-Value=[Copied URL of Public access]
-Firewall - Check HTTP 
+Key=startup-script-url                       
+Value=[Copied URL of Public access]                       
+Firewall - Check HTTP                            
 Save                      
 
 Click on External IP                    
